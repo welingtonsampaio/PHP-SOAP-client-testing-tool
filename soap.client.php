@@ -10,7 +10,7 @@ if(isset($_REQUEST['getfunction'])) $client = get_soap_client_connection($_REQUE
 <html>
 <head>
 <title>SOAP Tester (CLIENT)</title>
-<link rel="stylesheet" href="http://gumbyframework.com/css/imports.css">
+<link rel="stylesheet" href="http://gumbyframework.com/css/gumby.css">
 </head>
 <body style="margin-top:10px;">
 <div class="container">
